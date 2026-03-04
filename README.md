@@ -8,8 +8,8 @@
 # 👋 Hi, I'm Kashvi Soni
  
 
-🎯 Always learning, building, and leveling up in tech  
-🌱 Exploring new frameworks, algorithms, and clean code
+<h3>🎯 Always learning, building, and leveling up in tech  </h3>
+<h3>🌱 Exploring new frameworks, algorithms, and clean code</h3>
 
 ## 🛠 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql,prisma,ts,java,github,html,css,tailwind,vscode,postman)
