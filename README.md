@@ -2,7 +2,9 @@
 <p align="center">
   <img src="gitbio.gif" width="80% height="80" />
 </p>
-
+![Kashvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KashviSoni01&show_icons=true&theme=radical)  
+![GitHub followers](https://img.shields.io/github/followers/KashviSoni01?style=social)  
+![Profile Views](https://komarev.com/ghpvc/?username=KashviSoni01&color=brightgreen)
 # 👋 Hi, I'm Kashvi Soni
  
 
