@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="gitbio.gif" width="90%" />
+  <img src="gitbio.gif" width="80% height="80" />
 </p>
 
 
