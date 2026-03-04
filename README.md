@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="gitbio.gif" width="100%" />
+</p>
 ## Hi there 👋
 
 <!--
