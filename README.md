@@ -1,8 +1,8 @@
 ## Hi there 👋
 <p align="center">
-  <img src="gitbio.gif" width="9%" />
+  <img src="gitbio.gif" width="90%" />
 </p>
-## Hi there 👋
+
 
 <!--
 **KashviSoni01/KashviSoni01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
