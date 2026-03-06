@@ -33,12 +33,20 @@ Curious Computer Science student who enjoys building things and understanding ho
   <img src="https://streak-stats.demolab.com?user=KashviSoni01&theme=radical&border_radius=10" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KashviSoni01&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<h2 align="center">🌱 Let's Connect</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KashviSoni01&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/KashviSoni01">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/kashvi-soni-108630331">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/KashviSoni_/">
+    <img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 <!--
 **KashviSoni01/KashviSoni01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
