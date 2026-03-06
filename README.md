@@ -9,10 +9,13 @@
 </p>
 
 
-<p align="center">
-I'm a second-year Computer Science student who enjoys building things and understanding how they work.<br>
+<h3 align="center">
+Curious Computer Science student who enjoys building things and understanding how they work.
+</h3>
+
+<h4 align="center">
 Most of my time goes into learning new technologies, experimenting with ideas, and improving my problem-solving skills through small projects.
-</p>
+</h4>
 
 ## 🛠 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql,prisma,ts,java,github,html,css,tailwind,vscode,postman)
@@ -20,9 +23,11 @@ Most of my time goes into learning new technologies, experimenting with ideas, a
 
 <h2 align="center">📊 GitHub Stats</h2>
 
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KashviSoni01&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashviSoni01&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KashviSoni01&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashviSoni01&layout=compact&theme=tokyonight&hide_border=true" height="170">
 </p>
 <!--
 **KashviSoni01/KashviSoni01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
