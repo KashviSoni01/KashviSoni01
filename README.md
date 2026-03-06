@@ -33,6 +33,8 @@ Curious Computer Science student who enjoys building things and understanding ho
   <img src="https://streak-stats.demolab.com?user=KashviSoni01&theme=radical&border_radius=10" />
 </p>
 
+
+
 <h2 align="center">🌱 Let's Connect</h2>
 
 <p align="center">
@@ -47,6 +49,12 @@ Curious Computer Science student who enjoys building things and understanding ho
   <a href="https://leetcode.com/u/KashviSoni_/">
     <img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KashviSoni01/KashviSoni01/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 <!--
 **KashviSoni01/KashviSoni01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
