@@ -6,10 +6,8 @@
 
 
 # 👋 Hi, I'm Kashvi Soni
- 
-
-<h4>🎯 Always learning, building, and leveling up in tech  </h4>
-<h4>🌱 Exploring new frameworks, algorithms, and clean code</h4>
+I'm a second-year Computer Science student who enjoys building things and understanding how they work.
+Most of my time goes into learning new technologies, experimenting with ideas, and improving my problem-solving skills through small projects.
 
 ## 🛠 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql,prisma,ts,java,github,html,css,tailwind,vscode,postman)
