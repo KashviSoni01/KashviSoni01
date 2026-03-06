@@ -33,6 +33,10 @@ Curious Computer Science student who enjoys building things and understanding ho
   <img src="https://streak-stats.demolab.com?user=KashviSoni01&theme=radical&border_radius=10" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KashviSoni01&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashviSoni01&layout=compact&theme=radical&hide_border=true" height="170" />
+</p>
 <!--
 **KashviSoni01/KashviSoni01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
