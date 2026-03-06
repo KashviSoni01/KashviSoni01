@@ -54,7 +54,7 @@ Curious Computer Science student who enjoys building things and understanding ho
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KashviSoni01/KashviSoni01/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/KashviSoni01/KashviSoni01/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 <!--
 **KashviSoni01/KashviSoni01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
