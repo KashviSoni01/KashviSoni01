@@ -1,17 +1,29 @@
-## Hi there… grab a cup of coffee ☕  
+
+<h1 align="center">Hi 👋, I'm Kashvi</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;I+like+building+things;Learning+as+I+go;Curious+about+how+things+work&center=true&width=500&height=45">
+</p>
 <p align="center">
   <img src="gitbio.gif" width="80% height="80" />
 </p>
 
 
-
-# 👋 Hi, I'm Kashvi Soni
-I'm a second-year Computer Science student who enjoys building things and understanding how they work.
+<p align="center">
+I'm a second-year Computer Science student who enjoys building things and understanding how they work.<br>
 Most of my time goes into learning new technologies, experimenting with ideas, and improving my problem-solving skills through small projects.
+</p>
 
 ## 🛠 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql,prisma,ts,java,github,html,css,tailwind,vscode,postman)
 
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KashviSoni01&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashviSoni01&layout=compact&theme=tokyonight" />
+</p>
 <!--
 **KashviSoni01/KashviSoni01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
